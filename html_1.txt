@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CRISTINILLA_1</title>
+    <link rel="stylesheet" href="Estilo_1.css">
+</head>
+<nav class="arriba">
+    <div class="arriba_1">
+        
+            <div class="arriba_1_1">
+            </div>
+            <div class="arriba_1_2">
+            </div>
+            <div class="arriba_1_3">
+            </div>
+    
+    </div>
+    <div class="arriba_2">
+            <div class="arriba_2_1">
+            </div>
+    </div>
+
+</nav>
+<body>
+<div class="mitad">
+     <div class="mitad_1">
+            <div class="mitad_1_1">
+            </div>
+            <div class="mitad_1_2">
+            </div>
+            <div class="mitad_1_3">
+            </div>
+            <div class="mitad_1_4">
+            </div>
+            <div class="mitad_1_5">
+            </div>
+    </div>
+    <div class="mitad_2">
+            <div class="mitad_2_1">
+            </div>
+            <div class="mitad_2_2">
+            </div>
+    </div>
+        
+</div>
+</body>
+<footer>
+<div class="pie">
+            <div class="pie_1">
+            </div> 
+</div>
+</footer>
+
+</html>
